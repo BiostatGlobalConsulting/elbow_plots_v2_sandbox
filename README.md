@@ -20,6 +20,8 @@ We're setting up a GitHub site to hold code and datasets for use by our team and
 
 We will start documenting some progress here, and may move it into version controlled files if that seems better at a later date.
 
+## Activities
+
 ### 2024-04-23
 - Dale creates file of faux crude plot data for three children for working out some ideas.  Feel free to suggest other data elements.  The file is in:
   ~/test_datasets/2024-04-23 Dale testing a crude plot data structure.xlsx 
@@ -40,5 +42,6 @@ We will start documenting some progress here, and may move it into version contr
 
 
 At this time I think the data structure holds everything we need to show what evidence VCQI takes into its calculations.  I have this new idea of making a figure that shows what evidence was passed into VCQI and the limited circumstances where VCQI modifies the evidence and imputes tick marks, and why.  We might call that a DQ elbow plot.  That will probably require some different data elements.  
+
 ## 2024-04-24
 - Made a few small improvements to the code and data structure; it is ready to share now.
