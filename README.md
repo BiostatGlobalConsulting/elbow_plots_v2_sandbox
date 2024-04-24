@@ -18,7 +18,7 @@ Toward that end, Dale is spending some time defining the data elements that need
 
 We're setting up a GitHub site to hold code and datasets for use by our team and collaborators.
 
-We will start documenting some progress here, and may move it into version controlled files if that seems better at a later date.
+We will start documenting some progress here.
 
 ## Activities
 
