@@ -43,5 +43,5 @@ We will start documenting some progress here, and may move it into version contr
 
 At this time I think the data structure holds everything we need to show what evidence VCQI takes into its calculations.  I have this new idea of making a figure that shows what evidence was passed into VCQI and the limited circumstances where VCQI modifies the evidence and imputes tick marks, and why.  We might call that a DQ elbow plot.  That will probably require some different data elements.  
 
-## 2024-04-24
+### 2024-04-24
 - Made a few small improvements to the code and data structure; it is ready to share now.
