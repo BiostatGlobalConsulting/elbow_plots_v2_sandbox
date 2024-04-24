@@ -39,6 +39,7 @@ We will start documenting some progress here.
 - Still TO DO:
 	1. Add code that makes a legend
 	2. All style choices are hard-coded here; go back and use the named Stata global macros so the user has flexibility over most elements
+ 	3. Write code to use VCQI output and MISS VCQI output to generate a dataset like the faux one we use here.
 
 
 At this time I think the data structure holds everything we need to show what evidence VCQI takes into its calculations.  I have this new idea of making a figure that shows what evidence was passed into VCQI and the limited circumstances where VCQI modifies the evidence and imputes tick marks, and why.  We might call that a DQ elbow plot.  That will probably require some different data elements.  
